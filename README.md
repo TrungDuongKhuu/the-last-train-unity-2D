@@ -20,9 +20,8 @@ Player decisions influence narrative progression and determine multiple endings.
 ---
 
 ## Project Assets
-- **Game Trailer**:   
-- **Game Poster**:   
-- **Playable Demo**:   
+- **Game Trailer**: https://drive.google.com/file/d/1zPGWcDy9J6H3lpssd5jMI9eQxMXBTejB/view?usp=sharing  
+- **Game Demo**:    https://drive.google.com/file/d/1wI0kgws7XoJV08pXmz6AP6lCOpdhYApi/view?usp=drive_link
 
 ---
 
