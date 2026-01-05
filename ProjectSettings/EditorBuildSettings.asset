@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/_Systems.unity
+    guid: 9af61de761d1cb247b3edabd1a03099f
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: 62066a1f92404bb4f8ff852bc168d009
+  - enabled: 1
+    path: Assets/Scenes/Chapter 0/BedroomScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Chapter 0.5 -Train/Train Stop.unity
+    guid: 0eceb0a7965cb2e4a8bcc88ee116b202
+  - enabled: 1
+    path: Assets/Scenes/Chapter 0.5 -Train/Train Interior.unity
+    guid: 516c293277d1a534e98f7dc09e008846
+  - enabled: 1
+    path: Assets/Scenes/Chapter 1/City.unity
+    guid: 61e06ea292e569348b4ebcd02f1e7800
+  - enabled: 1
+    path: Assets/Scenes/Chapter 1/Reception Room.unity
+    guid: b9161a9e23096c84e9978ce64f882878
+  - enabled: 1
+    path: Assets/Scenes/Chapter 1/Stairwell.unity
+    guid: 6ef493ff3b9901b4881b37ffe89749e0
+  - enabled: 1
+    path: Assets/Scenes/Chapter 1/Office Room.unity
+    guid: d3cfd8cabe492e741bd88d8953e87d69
+  - enabled: 1
+    path: Assets/Scenes/Chapter 1/Director Room.unity
+    guid: ef64b16d28907f74085daf9aa9fa9a54
+  - enabled: 1
+    path: Assets/Scenes/Chapter 1/Chapter 1 Puzzle 1.unity
+    guid: 77a911096a59e48458ede3993881b7fe
+  - enabled: 1
+    path: Assets/Scenes/Chapter 1/Chapter 1 Puzzle 2.unity
+    guid: 756323005715c1b42a3939a0a73baa8f
+  - enabled: 1
+    path: Assets/Scenes/Chapter 3/Maze.unity
+    guid: 48ea2d1a1138d2240bf4f9de4907440c
+  - enabled: 1
+    path: Assets/Scenes/Chapter 4/Trial.unity
+    guid: 7c84a37e88fa8934494e0fe5ef36190c
+  - enabled: 1
+    path: Assets/Scenes/Ending/Bad Ending.unity
+    guid: 186c5f0e2a8aa98439bf1c9aa88eb12e
+  - enabled: 1
+    path: Assets/Scenes/Ending/Good Ending.unity
+    guid: f27c4a7ee7b140d419641364b51af047
+  - enabled: 1
+    path: Assets/Scenes/Ending/Neutral Ending.unity
+    guid: 26ce4c5f6ae9d9241a70e0484670e0b8
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 3a8704d3363a21a4e963097c978c6f6c, type: 3}
+  m_UseUCBPForAssetBundles: 0

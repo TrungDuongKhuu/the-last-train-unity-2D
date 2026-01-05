@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdadefe264e06da4b8786584788d5e4d, type: 3}
+  m_Name: New Weapon
+  m_EditorClassIdentifier: 
+  itemName: "Thu\u1ED1c t\xEA li\u1EC7t"
+  icon: {fileID: -7993409747373998737, guid: 2063c4ed6934de941a6a1e6f0d15d4cd, type: 3}
+  description: 
+  damage: 0
+  attackRange: 2
+  attackCooldown: 1
+  canStunEnemies: 0
+  stunDuration: 10
+  stunRadius: 5
+  isAreaDamage: 0
+  damageRadius: 3
+  attackEffectPrefab: {fileID: 0}
+  attackSound: {fileID: 0}
+  maxUses: 20
+  hasDurability: 1
+  remainingUses: 0
