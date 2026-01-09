@@ -30,4 +30,4 @@ Player decisions influence narrative progression and determine multiple endings.
 - Nguyen Vinh Hung  
 - Nguyen Hoa An  
 
-**Ton Duc Thang University — Year: 2024 - 2025**
+**Ton Duc Thang University — Year: 2025 - 2026**
